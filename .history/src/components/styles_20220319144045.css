@@ -1,0 +1,12 @@
+.pokemons-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.single-pokemon{
+    border: 1px solid #cecece;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin: 10px;
+}

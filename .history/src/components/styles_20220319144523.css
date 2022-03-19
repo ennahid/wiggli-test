@@ -1,0 +1,17 @@
+.pokemons-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.single-pokemon{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #cecece;
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin: 10px;
+}
+.single-pokemon img{
+    height: 50px;
+    width: 50px;
+}
